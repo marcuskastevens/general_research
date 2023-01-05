@@ -1,0 +1,59 @@
+Backtest: rebal_freq = 15 - lookback_period = 30
+UPDATE: Regression Summaries Computed
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+MVO Executed at : 156.3863583 seconds
+202.4399727
+0.417689552416924
+Backtest: rebal_freq = 15 - lookback_period = 15
+UPDATE: Regression Summaries Computed
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+MVO Executed at : 147.4782056 seconds
+196.4262087
+0.45204429900504645
+Backtest: rebal_freq = 5 - lookback_period = 30
+UPDATE: Regression Summaries Computed
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+MVO Executed at : 454.1856505 seconds
+513.5223451
+1.952943309723198
+Backtest: rebal_freq = 5 - lookback_period = 10
+UPDATE: Regression Summaries Computed
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+MVO Executed at : 423.0742559 seconds
+480.3754116
+2.856718562531054
+Backtest: rebal_freq = 1 - lookback_period = 15
+UPDATE: Regression Summaries Computed
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+MVO Executed at : 2050.2905622 seconds
+2487.3707855
+12.169275787294092
+Backtest: rebal_freq = 1 - lookback_period = 10
+UPDATE: Regression Summaries Computed
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+MVO Executed at : 1936.3196151999996 seconds
+2344.9679231000005
+13.497875896127171
+Backtest: rebal_freq = 1 - lookback_period = 5
+UPDATE: Regression Summaries Computed
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+c:\Users\marcu\Documents\Quant\Programming\macro-strategy-class.py:231: RuntimeWarning: invalid value encountered in sqrt
+  sigma = np.sqrt(np.dot(np.dot(wts.T, cov_matrix), wts))
+MVO Executed at : 1854.42677 seconds
+2255.401731400001
+15.704591093577896
